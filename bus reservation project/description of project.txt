@@ -1,0 +1,8 @@
+Sem:  2 Boop project
+Title: C++ Bus reservation project
+Name:
+-> 	Mohit Harish Keswani
+
+	This project is on  Bus reservation.It will allow to show available buses and seat,to reserve
+the tickets from available bus,to check the details of booked tickets and to cancel the booked            
+tickets.
